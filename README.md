@@ -1,5 +1,10 @@
 # penmenpressadmin
 
+## Site live at
+```
+https://penmenadmin.netlify.app/
+```
+
 ## Project setup
 ```
 npm install
